@@ -1,4 +1,16 @@
-## Hi there 👋
+## Привет, меня зовут Юра!
+
+
+Перехожу в Data Analysis из инженерного проектирования.
+- закончил курс "Аналитик данных" Яндекс Практикум;
+- прохожу курсы по Python на Stepik;
+- изучаю AI для помощи в работе аналитика.
+
+Примеры моих работ:
+<br>
+<br>
+〽️ Визуализации, построенные в DataLens:
+- [Анализ данных сервиса Я.Афиша в России и Казахстане](https://datalens.ru/unu1hls89shef)
 
 <!--
 **YuraZakatov/YuraZakatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
