@@ -31,6 +31,15 @@
 * Анализ прошедших матчей среди игроков DOTA 2 [ (DataLens) ](https://1111) и  [ (PowerBI) ](https://1111)
 
 
+💻 SQL:
+* [Анализ покупок внутриигровой валюты](https://github.com/YuraZakatov/SQL/blob/71ff18f4aa3f970d9a29cc75b9ca019f322d6b48/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BE%D0%BA%20%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B%20.sql)
+
+
+
+
+
+
+
 <!--Перехожу в Data Analysis из инженерного проектирования.
 - закончил курс "Аналитик данных" Яндекс Практикум;
 - прохожу курсы по Python на Stepik;
