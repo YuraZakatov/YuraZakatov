@@ -38,6 +38,7 @@
 
 🐍 Python + Jupyter Notebook
 * [EDA сервиса Я.Афиша](https://github.com/YuraZakatov/Python/blob/9c7ce192fbd27ff8a90d642c20e76449afbfe084/yandex_afisha_EDA_1.ipynb)
+* [Анализ исторических данных для разработки бизнес-модели инвестирования в стартапы](https://github.com/YuraZakatov/Python/blob/629c1e481e9f1d182ba3d684f1314da4ef48fe88/startup.ipynb)
 
 
 
