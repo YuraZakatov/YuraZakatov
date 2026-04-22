@@ -28,7 +28,7 @@
 * Анализ ДТП Кировской области [ (DataLens) ](https://datalens.yandex/p346sidl31rsa)
 * Ключевые показатели и тенденции на конференциях TED [ (DataLens) ](https://datalens.yandex/oyqj2krjijuga?tab=kz)
 * Анализ данных посещаемости образовательного кружка [ (DataLens) ](https://datalens.yandex/oxkpv7n0bala9)
-* Анализ прошедших матчей среди игроков DOTA 2 [ (DataLens) ](https://1111) и  [ (PowerBI) ](https://1111)
+* Анализ прошедших матчей среди игроков DOTA 2 [ (DataLens) ](https://1111) <!--и  [ (PowerBI) ](https://1111)-->
 
 
 💻 SQL:
@@ -41,25 +41,3 @@
 * [Анализ исторических данных для разработки бизнес-модели инвестирования в стартапы](https://github.com/YuraZakatov/Python/blob/629c1e481e9f1d182ba3d684f1314da4ef48fe88/startup.ipynb)
 * [Разработка A/B-тестирования для развлекательного приложения](https://github.com/YuraZakatov/Python/blob/c69154f7b607a98b213a140f60bead06a1e191b2/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2_v1.ipynb)
 
-
-
-<!--Перехожу в Data Analysis из инженерного проектирования.
-- закончил курс "Аналитик данных" Яндекс Практикум;
-- прохожу курсы по Python на Stepik;
-- изучаю AI для помощи в работе аналитика.
-
-
---
-**YuraZakatov/YuraZakatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
