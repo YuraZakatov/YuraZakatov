@@ -28,7 +28,7 @@
 * Анализ ДТП Кировской области [ (DataLens) ](https://datalens.yandex/p346sidl31rsa)
 * Ключевые показатели и тенденции на конференциях TED [ (DataLens) ](https://datalens.yandex/oyqj2krjijuga?tab=kz)
 * Анализ данных посещаемости образовательного кружка [ (DataLens) ](https://datalens.yandex/oxkpv7n0bala9)
-* Анализ прошедших матчей среди игроков DOTA 2 [ (DataLens) ](https://1111) <!--и  [ (PowerBI) ](https://1111)-->
+* Анализ прошедших матчей среди игроков DOTA 2 [ (DataLens) ](https://datalens.yandex/jtf9r6j7lxno4) и [ (PowerBI) ](https://disk.yandex.ru/i/_G5BnjWJ54yalg)
 
 
 💻 SQL:
